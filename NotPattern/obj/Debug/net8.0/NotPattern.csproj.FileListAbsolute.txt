@@ -1,0 +1,14 @@
+D:\Bootcamp\DesignPattern\NotPattern\bin\Debug\net8.0\NotPattern.exe
+D:\Bootcamp\DesignPattern\NotPattern\bin\Debug\net8.0\NotPattern.deps.json
+D:\Bootcamp\DesignPattern\NotPattern\bin\Debug\net8.0\NotPattern.runtimeconfig.json
+D:\Bootcamp\DesignPattern\NotPattern\bin\Debug\net8.0\NotPattern.dll
+D:\Bootcamp\DesignPattern\NotPattern\bin\Debug\net8.0\NotPattern.pdb
+D:\Bootcamp\DesignPattern\NotPattern\obj\Debug\net8.0\NotPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\DesignPattern\NotPattern\obj\Debug\net8.0\NotPattern.AssemblyInfoInputs.cache
+D:\Bootcamp\DesignPattern\NotPattern\obj\Debug\net8.0\NotPattern.AssemblyInfo.cs
+D:\Bootcamp\DesignPattern\NotPattern\obj\Debug\net8.0\NotPattern.csproj.CoreCompileInputs.cache
+D:\Bootcamp\DesignPattern\NotPattern\obj\Debug\net8.0\NotPattern.dll
+D:\Bootcamp\DesignPattern\NotPattern\obj\Debug\net8.0\refint\NotPattern.dll
+D:\Bootcamp\DesignPattern\NotPattern\obj\Debug\net8.0\NotPattern.pdb
+D:\Bootcamp\DesignPattern\NotPattern\obj\Debug\net8.0\NotPattern.genruntimeconfig.cache
+D:\Bootcamp\DesignPattern\NotPattern\obj\Debug\net8.0\ref\NotPattern.dll
