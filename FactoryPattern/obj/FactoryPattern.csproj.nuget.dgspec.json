@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bootcamp\\FactoryPattern\\FactoryPattern.csproj": {}
+    "D:\\Bootcamp\\DesignPattern\\FactoryPattern\\FactoryPattern.csproj": {}
   },
   "projects": {
-    "D:\\Bootcamp\\FactoryPattern\\FactoryPattern.csproj": {
+    "D:\\Bootcamp\\DesignPattern\\FactoryPattern\\FactoryPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bootcamp\\FactoryPattern\\FactoryPattern.csproj",
+        "projectUniqueName": "D:\\Bootcamp\\DesignPattern\\FactoryPattern\\FactoryPattern.csproj",
         "projectName": "FactoryPattern",
-        "projectPath": "D:\\Bootcamp\\FactoryPattern\\FactoryPattern.csproj",
+        "projectPath": "D:\\Bootcamp\\DesignPattern\\FactoryPattern\\FactoryPattern.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\Bootcamp\\FactoryPattern\\obj\\",
+        "outputPath": "D:\\Bootcamp\\DesignPattern\\FactoryPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"

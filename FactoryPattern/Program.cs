@@ -9,13 +9,13 @@ class Program
         rotiGandum.Panggang();
 
         PabrikRoti pabrikRotiTawar = new PabrikRotiTawar();
-        IRoti rotiPutih = pabrikRotiTawar.BuatRoti();
-        rotiPutih.Resep();
-        rotiPutih.Panggang();
+        IRoti rotiTawar = pabrikRotiTawar.BuatRoti();
+        rotiTawar.Resep();
+        rotiTawar.Panggang();
 
         PabrikRoti pabrikRotiBagel = new PabrikRotiBagel();
-        IRoti rotiMultigrain = pabrikRotiBagel.BuatRoti();
-        rotiMultigrain.Resep();
-        rotiMultigrain.Panggang();
+        IRoti rotiBagel = pabrikRotiBagel.BuatRoti();
+        rotiBagel.Resep();
+        rotiBagel.Panggang();
     }
 }
