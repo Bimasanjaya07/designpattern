@@ -1,6 +1,6 @@
 namespace Roti;
 
-public class RotiBagel : IRoti
+public class RotiBagel : IRoti // Concrete Product
 {
 
     public void Resep()
